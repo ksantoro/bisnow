@@ -1,6 +1,6 @@
 ## Bisnow Coding Challenge
 
-Simple laravel 9 instance that has 2 api endpoints, one to accept email address, message and attachment information, and another to output successfull email addresses that sent the email asynchronously. 
+Simple laravel 9 instance that has 2 api endpoints, one to accept email address, message and attachment information, and another to output successful email sends that sent the email asynchronously. 
 
 Clone the Repo
 
